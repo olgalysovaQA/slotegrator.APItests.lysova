@@ -4,7 +4,6 @@ import api.config.ProjectConfig;
 import api.data.AuthPlayerData;
 import api.data.CreatePlayerData;
 import api.data.TokenRequestData;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.github.javafaker.Faker;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
